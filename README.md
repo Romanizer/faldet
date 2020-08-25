@@ -1,1 +1,4 @@
 # faldet
+
+## requirements
+* Python3
