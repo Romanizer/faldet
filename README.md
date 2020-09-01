@@ -6,6 +6,7 @@
 * tensorflow
 * imutils
 * OpenCV 2
+* matplotlib
 
 ```
 pip3 install -r requirements.txt
